@@ -1,0 +1,59 @@
+Which data structure follows Last In First Out (LIFO)?
+Stack|1
+Queue|0
+Array|0
+Linked List|0
+
+Which data structure follows First In First Out (FIFO)?
+Stack|0
+Queue|1
+Array|0
+Linked List|0
+
+Which data structure stores elements in consecutive memory locations?
+Array|1
+Stack|0
+Queue|0
+Linked List|0
+
+Which data structure consists of nodes connected by pointers?
+Array|0
+Stack|0
+Linked List|1
+Queue|0
+
+Which data structure is used to keep track of function calls?
+Stack|1
+Queue|0
+Array|0
+Linked List|0
+
+Which data structure stores key-value pairs?
+Array|0
+Stack|0
+Queue|0
+Hash Table|1
+
+Which data structure is used to traverse a graph level by level?
+Stack|0
+Queue|1
+Tree|0
+Array|0
+
+Which data structure is used to traverse a graph depth-wise?
+Queue|0
+Stack|1
+Array|0
+Tree|0
+
+Which data structure is linear?
+Array|1
+Tree|0
+Graph|0
+Hash Table|0
+
+Which data structure is non-linear?
+Array|0
+Stack|0
+Queue|0
+Tree|1
